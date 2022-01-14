@@ -2,6 +2,8 @@
 > The task is build an inventory tracking web application for a logistics company. The detailed task details can be found at [Shopify Backend Developer Intern 
 Challenge - Summer 2022](https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/edit#)
 
+> The task includs a basic Inventory app with CRUD functionality, an additional functionality of (When deleting, allow deletion comments and undeletion) is been added as mentioned in the Challange. 
+
 ### System Pre-requisits:
 Ensure that you have Python3.7+ and Git installed in the system. Refer the following links incase the requirements are not installed.
 1. [Python 3.7+](https://www.python.org/)

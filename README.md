@@ -45,7 +45,7 @@ python manage.py runserver
 Local API calls can be made at: http://127.0.0.1:8000/
 
 ## API Documentation
-Postman API documentation is been attached to the repo, which can be used to test the API locally.
+Postman API documentation is been attached to the repo (Shopify.postman_collection.json), which can be used to test the API locally.
 
 ## Testing
 

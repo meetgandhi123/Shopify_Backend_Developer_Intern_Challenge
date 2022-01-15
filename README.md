@@ -1,8 +1,13 @@
 # Shopify Backend Developer Intern
 > The task is build an inventory tracking web application for a logistics company. The detailed task details can be found at [Shopify Backend Developer Intern 
 Challenge - Summer 2022](https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/edit#)
-
+### Task Discription:
 > The task includs a basic Inventory app with CRUD functionality, an additional functionality of (When deleting, allow deletion comments and undeletion) is been added as mentioned in the Challange. 
+
+Adding a field named DeleteStatus in dataset for managing the soft delete functionality. Also, we have keep two validation condition:
+1. Deleted item can't be edited or retrived before undeleting it.
+2. Items which are already soft deleted, can not be deleted again.
+
 
 ### System Pre-requisits:
 Ensure that you have Python3.7+ and Git installed in the system. Refer the following links incase the requirements are not installed.
